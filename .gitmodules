@@ -1,0 +1,3 @@
+[submodule "HyperStream"]
+	path = HyperStream
+	url = git@github.com:IRC-SPHERE/HyperStream.git
